@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlashCardApp/static/css/main.1f5ff004.css",
+    "main.js": "/FlashCardApp/static/js/main.54ff8363.js",
+    "index.html": "/FlashCardApp/index.html",
+    "main.1f5ff004.css.map": "/FlashCardApp/static/css/main.1f5ff004.css.map",
+    "main.54ff8363.js.map": "/FlashCardApp/static/js/main.54ff8363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5ff004.css",
+    "static/js/main.54ff8363.js"
+  ]
+}
