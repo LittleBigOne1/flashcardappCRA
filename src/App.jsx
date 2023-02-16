@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AllCards from './components/AllCards';
 import CreateCard from './components/CreateCard';
 import Card from './components/Card';
-import Home from './Home';
 
 function App() {
   return (
