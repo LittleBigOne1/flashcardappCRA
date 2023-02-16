@@ -8,7 +8,6 @@ function App() {
   return (
     <Router>
       <Routes>
-        {/* <Route path="/" element={<Home />} /> */}
         <Route path="/*" element={<AllCards />} />
         <Route path="/allcards" element={<AllCards />} />
         <Route path="/card/:id" element={<Card />} />
